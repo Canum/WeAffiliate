@@ -76,6 +76,11 @@ Go to ClientServer/views/contactForm.ejs and copy this script to your code
 
         getClientID(11);},500); 
 
+
+</script>
+
+
+
 ******Replace getClientID(11) by getCLientID('your widgetID')************ 
 
   
